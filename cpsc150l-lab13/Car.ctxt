@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Car
+comment1.params=
+comment1.target=Car()
+comment10.params=person
+comment10.target=boolean\ addPassenger(Person)
+comment11.params=person
+comment11.target=boolean\ removePassenger(Person)
+comment12.params=person
+comment12.target=boolean\ canDrive(Person)
+comment2.params=aCapacity
+comment2.target=Car(int)
+comment3.params=
+comment3.target=int\ getCapacity()
+comment4.params=
+comment4.target=int\ getOccupancy()
+comment5.params=
+comment5.target=boolean\ hasRoom()
+comment6.params=
+comment6.target=Person\ getDriver()
+comment7.params=person
+comment7.target=boolean\ hasPassenger(Person)
+comment8.params=person
+comment8.target=boolean\ setDriver(Person)
+comment9.params=
+comment9.target=Person[]\ getPassengers()
+numComments=13
