@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Time
+comment1.params=
+comment1.target=Time()
+comment1.text=\r\n\ Default\ constructor\ for\ Time.\ This\ sets\ both\ hours\ and\ minutes\ to\ 0.\r\n
+comment2.params=Hours\ Minutes
+comment2.target=Time(int,\ int)
+comment2.text=\r\n\ Constructor\ for\ Time.\ Sets\ hours\ to\ the\ first\r\n\ \ \ \ \ parameter,\ and\ minutes\ to\ the\ second\ parameter.\r\n\r\n\ @param\ Hours\ \ \ \ The\ number\ to\ be\ stored\ in\ hour,\ representing\ the\ hours\ of\ Time.\r\n\ @param\ Minutes\ \ The\ number\ to\ be\ stored\ in\ minute,\ representing\ the\ minutes\ of\ Time.\r\n
+comment3.params=addMinutes
+comment3.target=Time\ addMinutes(int)
+comment3.text=\r\n\ This\ method\ creates\ a\ new\ Time\ object\ whose\ time\ is\ its\ time\r\n\ \ \ \ \ plus\ a\ user\ specified\ number\ of\ minutes.\r\n\r\n\ @param\ addMinutes\r\n\r\n\ @return\ addedTime\ -\ The\ Time\ object\ with\ addMinutes\ added\ to\ it.\r\n
+comment4.params=
+comment4.target=int\ getHour()
+comment4.text=\r\n\ Gets\ the\ hours\ in\ a\ course.\r\n\ @return\ the\ hours\ in\ a\ course.\r\n
+comment5.params=
+comment5.target=int\ getMinute()
+comment5.text=\r\n\ Gets\ the\ minutes\ in\ a\ course.\r\n\ @return\ the\ minutes\ in\ a\ course.\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Formats\ the\ time\ in\ a\ String\ to\ "HH\:MM".\r\n\ @return\ the\ time\ formatted\ as\ "HH\:MM".\r\n
+comment7.params=scnr
+comment7.target=Time\ readTime(java.util.Scanner)
+comment7.text=\r\n\ This\ method\ reads\ in\ a\ time\ from\ a\ Scanner\ (of\ form\ HHMM\ or\ HH\:MM)\ and\ returns\ it\ as\ a\ Time\ object.\r\n\r\n\ @param\ scnr\ The\ Scanner\ from\ which\ we\ read\ in\ the\ time.\r\n\ @return\ The\ Time\ contained\ in\ the\ Scanner.\r\n
+comment8.params=str
+comment8.target=boolean\ isNumber(java.lang.String)
+comment8.text=\r\n\ Returns\ true\ if\ String\ is\ a\ number,\ false\ otherwise\r\n\ Is\ static\ because\ it\ does\ not\ use\ any\ instance\ variables\r\n\ isNumber("123")\ returns\ true.\ isNumber("1L")\ returns\ false.\r\n\ Note\:\ This\ method\ uses\ exceptions,\ which\ we\ will\ not\ learn\ this\r\n\ semester.\r\n\r\n\ @param\ str\ String\ to\ check\r\n\ @returns\ true\ if\ str\ holds\ a\ number,\ false\ otherwise\r\n
+numComments=9

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=CNUScheduleMaker
+comment1.params=myKbd
+comment1.target=CNUScheduleMaker(java.util.Scanner)
+comment2.params=className
+comment2.target=java.lang.String\ getDays(java.lang.String)
+comment3.params=courseName
+comment3.target=Time\ getStart(java.lang.String)
+comment4.params=courseName\ startTime
+comment4.target=Time\ getEnd(java.lang.String,\ Time)
+comment5.params=
+comment5.target=void\ getInfo()
+comment6.params=
+comment6.target=void\ printSchedule()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

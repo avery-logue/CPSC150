@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Course
+comment1.params=
+comment1.target=Course()
+comment1.text=\r\n\ Default\ constructor\ for\ Course.\ This\ sets\ names\ to\ an\ empty\ string,\ days\ to\ an\ array\ of\ length\ 5,\ nbrMeetingsPerWeek\ to\ 0,\r\n\ \ \ \ \ \ startTime's\ hours\ and\ minutes\ to\ 0,\ and\ endtime's\ hours\ and\ minutes\ to\ 0.\r\n
+comment2.params=courseName\ start\ end\ meetDays
+comment2.target=Course(java.lang.String,\ Time,\ Time,\ java.lang.String)
+comment2.text=\r\n\ Constructor\ for\ Time.\ Sets\ hours\ to\ the\ first\r\n\ \ \ \ \ parameter,\ and\ minutes\ to\ the\ second\ parameter.\r\n\r\n\ @param\ courseName\ The\ name\ of\ the\ course\r\n\ @param\ start\ The\ start\ time\ of\ the\ course\r\n\ @param\ end\ The\ end\ time\ of\ the\ course\r\n\ @param\ meetDays\ The\ days\ the\ course\ meets\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ Formats\ the\ course\ in\ a\ String\ to\ "name\:\ days\ startTime-endTime"\ with\ a\ newline\r\n\ @returns\ courseString\ The\ formatted\ string\r\n
+numComments=4
