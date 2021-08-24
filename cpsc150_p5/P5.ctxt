@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=P5
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=kbd
+comment2.target=char\ showMenu(java.util.Scanner)
+comment3.params=kbd
+comment3.target=Student\ readStudent(java.util.Scanner)
+comment3.text=\r\n\ Adds\ a\ new\ Student,\ prompting\ the\ user\ to\r\n\ enter\ a\ name\ of\ the\ Student,\ the\ courses\r\n\ which\ the\ Student\ is\ taking,\ and\ the\ grades\r\n\ that\ the\ Student\ has\ for\ each\ course.\r\n\ Option\ 1\ from\ the\ menu\ will\ call\ this\ method.\r\n\ \r\n\ @param\ kbd\ -\ The\ Scanner\ from\ which\ we\ read\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ in\ the\ name,\ courses,\ and\ grades.\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n\ @return\ -\ A\ new\ Student\ with\ the\ information\r\n\ \ \ \ \ \ \ \ \ \ \ that\ the\ user\ entered.\r\n
+comment4.params=students
+comment4.target=double\ calcAverage(java.util.ArrayList)
+comment4.text=\r\n\ Calculates\ the\ average\ of\ all\ the\ Students\ in\r\n\ the\ given\ ArrayList.\ Option\ 1\ from\ the\ menu\r\n\ will\ call\ this\ method.\r\n\ \r\n\ @param\ students\ -\ The\ ArrayList\ of\ Students\ to\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ calculate\ the\ average\ of.\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n\ @return\ -\ The\ average\ of\ all\ Students\ in\ the\ \r\n\ \ \ \ \ \ \ \ \ \ \ ArrayList\ students\ if\ it\ is\ not\ empty,\r\n\ \ \ \ \ \ \ \ \ \ \ 0.0\ otherwise.\r\n
+comment5.params=kbd\ students
+comment5.target=void\ printStudentReport(java.util.Scanner,\ java.util.ArrayList)
+comment5.text=\r\n\ Prints\ a\ summary\ a\ single\ Student\ in\ the\r\n\ given\ ArrayList.\ The\ Student\ is\ searched\r\n\ for,\ and\ if\ found,\ a\ summary\ is\ printed.\r\n\ If\ the\ student\ is\ not\ found,\ it\ will\ print\r\n\ a\ message\ saying\ so.\ Option\ 3\ from\ the\ menu\r\n\ will\ call\ this\ method.\r\n\ \r\n\ @param\ kbd\ \ \ \ \ \ -\ The\ Scanner\ from\ which\ we\ read\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ in\ the\ name,\ courses,\ and\ grades.\r\n\ @param\ students\ -\ The\ ArrayList\ of\ Students\ to\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ search\ through\ and\ print\ the\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ summary\ of.\r\n
+comment6.params=kbd\ students
+comment6.target=void\ printCourseReport(java.util.Scanner,\ java.util.ArrayList)
+comment6.text=\r\n\ Prompts\ the\ user\ to\ enter\ a\ course,\ and\r\n\ then\ prints\ the\ average\ of\ grades\ from\ all\r\n\ Students\ across\ that\ course.\ If\ the\ user\r\n\ enters\ a\ course\ that\ is\ not\ recognized,\ an\r\n\ error\ message\ saying\ so\ will\ print.\ Option\r\n\ 4\ from\ the\ menu\ will\ call\ this\ method.\r\n\ \r\n\ @param\ kbd\ \ \ \ \ \ -\ The\ Scanner\ from\ which\ we\ read\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ in\ the\ course\ name.\r\n\ @param\ students\ -\ The\ ArrayList\ of\ Students\ that\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ is\ searched\ through\ to\ obtain\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ the\ information\ that\ is\ printed.\r\n\ \r\n
+comment7.params=students
+comment7.target=void\ printAllStudentReport(java.util.ArrayList)
+comment7.text=\r\n\ Prints\ a\ student\ report\ for\ all\ Students\r\n\ in\ the\ given\ ArrayList\ called\ students.\r\n\ Prints\ an\ error\ message\ if\ the\ given\r\n\ ArrayList\ is\ empty.\r\n\ \r\n\ @param\ students\ -\ The\ given\ ArrayList\ of\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Students\ whose\ summaries\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ are\ printed.\r\n
+numComments=8
