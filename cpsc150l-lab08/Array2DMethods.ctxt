@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Array2DMethods
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Array2DMethods\ here.\r\n\r\n\ @author\ Avery\ Logue\r\n\ @version\ 11/1/17\r\n
+comment1.params=a
+comment1.target=int[]\ sumRows(int[][])
+comment2.params=a\ n
+comment2.target=int[]\ getRow(int[][],\ int)
+comment3.params=a
+comment3.target=double\ average(int[][])
+numComments=4

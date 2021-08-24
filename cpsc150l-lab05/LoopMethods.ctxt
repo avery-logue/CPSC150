@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=start\ end
+comment0.target=int\ sumSeries(int,\ int)
+comment1.params=n
+comment1.target=int\ factorial(int)
+numComments=2

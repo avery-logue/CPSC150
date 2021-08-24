@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PersonName
+comment0.text=\r\n\ This\ is\ a\ class\ that\ contains\ methods\ relating\ to\ names\ of\ people.\r\n\ @author\ Your\ magnificent\ lab\ TA.\r\n
+comment1.params=wholeName
+comment1.target=int\ numberNames(java.lang.String)
+comment1.text=\r\n\ This\ method\ counts\ the\ number\ of\ names\ inside\ of\ a\ name.\r\n\ @param\ wholename\ The\ name\ to\ parse.\r\n\ @return\ The\ number\ of\ names\ in\ wholename.\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\r\n\ The\ method\ you\ can\ use\ to\ check\ your\ code's\ output.\r\n\ This\ is\ what\ you\ will\ turn\ into\ various\ jUnit\ tests\ in\ Ex\ 2.\r\n
+numComments=3

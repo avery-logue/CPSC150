@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CanvasPanel
+comment1.params=bg
+comment1.target=CanvasPanel(java.awt.Color)
+comment2.params=
+comment2.target=void\ draw()
+comment3.params=shape\ color
+comment3.target=void\ add(java.awt.Shape,\ java.awt.Color)
+comment4.params=
+comment4.target=void\ clear()
+comment5.params=g
+comment5.target=void\ paintComponent(java.awt.Graphics)
+numComments=6
