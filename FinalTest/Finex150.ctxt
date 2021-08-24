@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Finex150
+comment1.params=start\ end
+comment1.target=int\ countOfEvens(int,\ int)
+comment2.params=num
+comment2.target=int\ factorial(int)
+comment3.params=nums
+comment3.target=int\ maxOf(int[])
+comment4.params=nums
+comment4.target=void\ swapEnds(int[])
+numComments=5
