@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=P3
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=time
+comment2.target=java.lang.String\ toTime(int)
+comment3.params=kbd\ courseName\ day
+comment3.target=int\ getStart(java.util.Scanner,\ java.lang.String,\ char)
+comment4.params=begin\ length
+comment4.target=int\ calcEnd(int,\ int)
+comment5.params=kbd\ startTime\ courseName\ day
+comment5.target=int\ getEnd(java.util.Scanner,\ int,\ java.lang.String,\ char)
+comment6.params=kbd\ className
+comment6.target=java.lang.String\ getDays(java.util.Scanner,\ java.lang.String)
+comment7.params=kbd\ startTime\ endTime\ names\ dayInSched\ nbrCourses
+comment7.target=int\ getInfo(java.util.Scanner,\ int[],\ int[],\ java.lang.String[],\ char[],\ int)
+comment8.params=startTime\ endTime\ names\ days\ length
+comment8.target=void\ printSchedule(int[],\ int[],\ java.lang.String[],\ char[],\ int)
+numComments=9
